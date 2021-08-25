@@ -1,2 +1,3 @@
 # Messy-or-clean-room-image-classification
-Klasifikasi gambar kamar tergolong kotor atau bersih
+
+Klasifikasi foto apakah kamar tergolong kotor atau bersih
